@@ -1,1 +1,3 @@
-void bugFixed() {}
+void bugFixed() {
+  print("fixe bugs");
+}
