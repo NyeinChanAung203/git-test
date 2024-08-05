@@ -1,3 +1,3 @@
 void bugFixed() {
-  print("fixe bugs");
+  print("fixed a lot of bugs");
 }
