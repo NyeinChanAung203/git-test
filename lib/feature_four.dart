@@ -1,10 +1,9 @@
+import 'dart:developer';
+
 void featureFour() {
-  print("featuer four added");
-  print("feature four starts");
-  print("feature four is processing");
-  print("feature four is done");
+  log("feature four done");
 }
 
-void featureFour2() {
-  print("feature Four 2 is updated");
+void featureFour3() {
+  print("feature Four 3 is added");
 }
