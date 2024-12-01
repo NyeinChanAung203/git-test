@@ -1,5 +1,7 @@
-void featureFourDone() {
+void featureFour() {
   print("featuer four done");
+  featureFour2();
+  featureFour3();
 }
 
 void featureFour2() {
